@@ -1,6 +1,7 @@
-Compiling dependencies:
+Compile dependencies:
 
 sudo apt-get install libqrencode-dev
+
 sudo apt-get install libzbar-dev
 
 
