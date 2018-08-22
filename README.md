@@ -1,3 +1,9 @@
+Compiling dependencies:
+
+sudo apt-get install libqrencode-dev
+sudo apt-get install libzbar-dev
+
+
 Shadowsocks-Qt5
 ===============
 
